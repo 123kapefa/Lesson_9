@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac6f70e4-0537-400c-a5a1-9cad932b2d46" name="Changes" comment="Доделал домашнее задание.">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/php_lesson_4_2024-08-14" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <branch-grouping />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/php_lesson_4_2024-08-14" value="hw5" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2j415l7gr6O4iNSiOLNirKpVBbm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.index.php.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/artursokolov/Library/CloudStorage/OneDrive-Личная/_SHAG_/PHP/Classworks/Lesson_9",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/php_lesson_4_2024-08-14/app/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/php_lesson_4_2024-08-14/app/src" />
+      <recent name="$PROJECT_DIR$/php_lesson_4_2024-08-14/app/src/Shop" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/php_lesson_4_2024-08-14/app/public/index.php">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-php-predefined-ba97393d7c68-6f8e3395a2b4-com.jetbrains.php.sharedIndexes-PS-233.15026.12" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac6f70e4-0537-400c-a5a1-9cad932b2d46" name="Changes" comment="" />
+      <created>1720631355379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720631355379</updated>
+      <workItem from="1720631357232" duration="7454000" />
+      <workItem from="1720801911391" duration="41000" />
+      <workItem from="1720801957276" duration="68000" />
+      <workItem from="1720802346130" duration="3055000" />
+      <workItem from="1721234322115" duration="4429000" />
+      <workItem from="1723651956612" duration="5310000" />
+      <workItem from="1723659509827" duration="3815000" />
+      <workItem from="1723740032266" duration="1380000" />
+      <workItem from="1723741542261" duration="237000" />
+      <workItem from="1723823688484" duration="11687000" />
+      <workItem from="1724230226629" duration="3132000" />
+      <workItem from="1724258126183" duration="8125000" />
+      <workItem from="1724429655624" duration="20001000" />
+      <workItem from="1724583560127" duration="624000" />
+      <workItem from="1724862219897" duration="519000" />
+      <workItem from="1724863008133" duration="1773000" />
+    </task>
+    <task id="LOCAL-00001" summary="Добавил файлы конфинурации для Webserver и App">
+      <option name="closed" value="true" />
+      <created>1720638816181</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720638816181</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Добавил файл index.php">
+      <option name="closed" value="true" />
+      <created>1720638838252</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720638838252</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Добавил файл index.php">
+      <option name="closed" value="true" />
+      <created>1723740162413</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723740162413</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Решение домашки 3">
+      <option name="closed" value="true" />
+      <created>1723826132672</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723826132672</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Добавление файлов.">
+      <option name="closed" value="true" />
+      <created>1724430679084</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724430679084</updated>
+    </task>
+    <task id="LOCAL-00006" summary="изменил свойство DOCKER_ID.">
+      <option name="closed" value="true" />
+      <created>1724430740881</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724430740881</updated>
+    </task>
+    <task id="LOCAL-00007" summary="DOCKER=2000">
+      <option name="closed" value="true" />
+      <created>1724431185003</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1724431185003</updated>
+    </task>
+    <task id="LOCAL-00008" summary="DOCKER=1001">
+      <option name="closed" value="true" />
+      <created>1724431434251</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724431434251</updated>
+    </task>
+    <task id="LOCAL-00009" summary="create new branch">
+      <option name="closed" value="true" />
+      <created>1724446554197</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1724446554197</updated>
+    </task>
+    <task id="LOCAL-00010" summary="добавил нужные файлы.">
+      <option name="closed" value="true" />
+      <created>1724447043505</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1724447043505</updated>
+    </task>
+    <task id="LOCAL-00011" summary="переделал классы.">
+      <option name="closed" value="true" />
+      <created>1724496906707</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1724496906707</updated>
+    </task>
+    <task id="LOCAL-00012" summary="commit 24.08 20:27">
+      <option name="closed" value="true" />
+      <created>1724520462557</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1724520462557</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Доделал домашнее задание.">
+      <option name="closed" value="true" />
+      <created>1724523874800</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1724523874800</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Доделал домашнее задание.">
+      <option name="closed" value="true" />
+      <created>1724524123472</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1724524123472</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Добавил файлы конфинурации для Webserver и App" />
+    <MESSAGE value="Добавил файл index.php" />
+    <MESSAGE value="Решение домашки 3" />
+    <MESSAGE value="Добавление файлов." />
+    <MESSAGE value="изменил свойство DOCKER_ID." />
+    <MESSAGE value="DOCKER=2000" />
+    <MESSAGE value="DOCKER=1001" />
+    <MESSAGE value="create new branch" />
+    <MESSAGE value="добавил нужные файлы." />
+    <MESSAGE value="переделал классы." />
+    <MESSAGE value="commit 24.08 20:27" />
+    <MESSAGE value="Доделал домашнее задание." />
+    <option name="LAST_COMMIT_MESSAGE" value="Доделал домашнее задание." />
+  </component>
+</project>
