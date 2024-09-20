@@ -132,6 +132,7 @@
       <path value="$PROJECT_DIR$/app/vendor/laravel/scout" />
       <path value="$PROJECT_DIR$/app/vendor/watson/active" />
       <path value="$PROJECT_DIR$/app/vendor/orchid/crud" />
+      <path value="$PROJECT_DIR$/app/vendor/laravel/sanctum" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.2">

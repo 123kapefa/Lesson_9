@@ -4,19 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac6f70e4-0537-400c-a5a1-9cad932b2d46" name="Changes" comment="Доделал домашнее задание №9.">
-      <change afterPath="$PROJECT_DIR$/app/routes/api.php" afterDir="false" />
+    <list default="true" id="ac6f70e4-0537-400c-a5a1-9cad932b2d46" name="Changes" comment="Доделал домашнее задание №10.">
+      <change afterPath="$PROJECT_DIR$/app/app/Http/Controllers/ApiLoginController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app/Http/Controllers/LoginController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/Http/Controllers/LoginController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app/Http/Controllers/RegistrationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/Http/Controllers/RegistrationController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/Models/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/bootstrap/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/bootstrap/app.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/app/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/resources/views/base.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/base.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/resources/views/login/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/resources/views/login/login.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,12 +40,12 @@
     <branch-grouping />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="init" />
+        <entry key="$PROJECT_DIR$" value="HW_12" />
         <entry key="$PROJECT_DIR$/app" value="2897a49c65a37e385d25d6606d8258e1afb39774" />
         <entry key="$PROJECT_DIR$/php_lesson_4_2024-08-14" value="hw5" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/app" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -172,6 +168,7 @@
       <path value="$PROJECT_DIR$/app/vendor/laravel/scout" />
       <path value="$PROJECT_DIR$/app/vendor/watson/active" />
       <path value="$PROJECT_DIR$/app/vendor/orchid/crud" />
+      <path value="$PROJECT_DIR$/app/vendor/laravel/sanctum" />
     </include_path>
   </component>
   <component name="ProjectColorInfo">{
@@ -185,22 +182,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JavaScript Debug.index.php.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;HW__10&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/artursokolov/Library/CloudStorage/OneDrive-Личная/_SHAG_/PHP/Classworks/Lesson_9/app/resources/views/login&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.index.php.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "HW__11",
+    "last_opened_file_path": "/Users/artursokolov/Library/CloudStorage/OneDrive-Личная/_SHAG_/PHP/Classworks/Lesson_9/app/resources/views/login",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app/resources/views/login" />
@@ -264,7 +261,7 @@
       <workItem from="1726047004980" duration="369000" />
       <workItem from="1726078690872" duration="9897000" />
       <workItem from="1726156809760" duration="26873000" />
-      <workItem from="1726673818401" duration="1070000" />
+      <workItem from="1726673818401" duration="12779000" />
     </task>
     <task id="LOCAL-00001" summary="Добавил файлы конфинурации для Webserver и App">
       <option name="closed" value="true" />
@@ -394,7 +391,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726217623918</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Доделал домашнее задание №10.">
+      <option name="closed" value="true" />
+      <created>1726675193423</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1726675193423</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -411,7 +416,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="HW_12" />
                       </list>
                     </value>
                   </entry>
@@ -437,7 +442,8 @@
     <MESSAGE value="commit 24.08 20:27" />
     <MESSAGE value="Доделал домашнее задание." />
     <MESSAGE value="Доделал домашнее задание №9." />
-    <option name="LAST_COMMIT_MESSAGE" value="Доделал домашнее задание №9." />
+    <MESSAGE value="Доделал домашнее задание №10." />
+    <option name="LAST_COMMIT_MESSAGE" value="Доделал домашнее задание №10." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
