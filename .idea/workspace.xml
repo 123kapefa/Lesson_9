@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac6f70e4-0537-400c-a5a1-9cad932b2d46" name="Changes" comment="Доделал домашнее задание №10.">
-      <change afterPath="$PROJECT_DIR$/app/app/Http/Controllers/ApiLoginController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/Models/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/app/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/api.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.docker/app/Dockerfile.cron" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.docker/server/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/crontab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/resources/views/mail/mail.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docker/app/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/app/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docker/webserver/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docker/webserver/nginx.conf" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/server/nginx.conf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -187,7 +187,7 @@
     "JavaScript Debug.index.php.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "HW__11",
+    "git-widget-placeholder": "HW__12",
     "last_opened_file_path": "/Users/artursokolov/Library/CloudStorage/OneDrive-Личная/_SHAG_/PHP/Classworks/Lesson_9/app/resources/views/login",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -213,7 +213,7 @@
       <recent name="$PROJECT_DIR$/php_lesson_4_2024-08-14/app/src/Shop" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.index.php">
+  <component name="RunManager">
     <configuration name="Main" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner configuration_file="$PROJECT_DIR$/app/phpunit.xml" scope="XML" use_alternative_configuration_file="true" />
       <method v="2" />
@@ -444,16 +444,5 @@
     <MESSAGE value="Доделал домашнее задание №9." />
     <MESSAGE value="Доделал домашнее задание №10." />
     <option name="LAST_COMMIT_MESSAGE" value="Доделал домашнее задание №10." />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/app/resources/views/login/registration.blade.php</url>
-          <line>1</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
